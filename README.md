@@ -1,4 +1,4 @@
-** Arithmetic Operations Microservice **
+* Arithmetic Operations Microservice 
 
 - This project provides a web-based arithmetic calculator where users can perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
 - The client interacts with a backend API to perform these operations, and results are displayed on the user interface.
